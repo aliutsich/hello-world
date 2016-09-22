@@ -1,2 +1,2 @@
-# hello-world
-"Hello, World!" in Haskell.
+# "Hello, World!"
+"Hello, World!"
